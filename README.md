@@ -2,7 +2,7 @@
 
 ## **Mathematics**
 
-- [ ] Vector Spaces and Subspaces
+- [x] Vector Spaces and Subspaces
 
 - [ ] Linear Transformations, eigenvalues and eigenvectors
 
