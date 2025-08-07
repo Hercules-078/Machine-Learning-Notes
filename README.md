@@ -4,7 +4,7 @@
 
 - [x] Vector Spaces and Subspaces
 
-- [ ] Linear Transformations, eigenvalues and eigenvectors
+- [x] Linear Transformations, eigenvalues and eigenvectors
 
 - [ ] Orthogonality, Projection and Real symmetric matrices
 
