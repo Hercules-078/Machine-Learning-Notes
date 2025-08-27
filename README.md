@@ -17,10 +17,10 @@
 ---
 
 ## **Regression Analysis**
-- [ ] Simple Linear Regression
-- [ ] Multiple Linear Regression
-- [ ] Regularization
-- [ ] Multicollinearity
+- [x] Simple Linear Regression
+- [x] Multiple Linear Regression
+- [x] Regularization
+- [x] Multicollinearity
 - [ ] Polynomial Linear Regression
-- [ ] Gradient descent
+- [x] Gradient descent
 
