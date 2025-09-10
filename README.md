@@ -4,8 +4,8 @@
 
 - [x] Vector Spaces and Subspaces
 - [x] Linear Transformations, eigenvalues and eigenvectors
-- [ ] Orthogonality, Projection and Real symmetric matrices
-- [ ] Singular value decomposition, Principal Component Analysis, Support Vector Machines and Applications
+- [x] Orthogonality, Projection and Real symmetric matrices
+- [x] Singular value decomposition, Principal Component Analysis, Support Vector Machines and Applications
 - [ ] Probability Foundations - From Events to Bayes’ Theorem
 - [ ] Random Variables, Moments of Random Variables\
 - [ ] Jointly Distributed Random Variables, Conditioning of Random variables
